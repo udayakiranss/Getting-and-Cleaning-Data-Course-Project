@@ -79,6 +79,7 @@ Provides the Subject identifier, who performed the activity
 - fBodyBodyGyroMag.std..     
 - fBodyBodyGyroJerkMag.mean..
 - fBodyBodyGyroJerkMag.std.. 
+
 Instruction List
 ==================================================================
 Following steps are performed to obtained the tidy set
